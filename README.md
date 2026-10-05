@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Ezequiel Teherán 👋
 
-<!--
-**oscarteheran2021-tech/oscarteheran2021-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Systems Engineering Student** with a strong focus on **Python development** and building core skills across other programming languages.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Learning Path
+
+* **Main Language:** Python (Data Structures, Algorithms, GUI & Scripting)
+* **Currently Learning:** Java, HTML5, CSS3
+* **Tools & Platforms:** Git, GitHub, VS Code, Figma
+* **Core Fundamentals:** Computer Networking (OSI / TCP/IP), Calculus & Optimization
+
+---
+
+### 📌 Featured Projects
+
+*  **Python Projects:** Collection of algorithms, logic exercises, and desktop applications using Tkinter.
+*  **Web Layouts & UI:** Interactive interface prototypes and basic web components using HTML and CSS.
+
+---
+
+### 📈 Current Focus
+
+* 🎯 Strengthening advanced Python logic and problem-solving skills.
+* 📚 Expanding technical domain into new languages and full-stack concepts.
+* 🗣️ Practicing professional English for global collaboration.
+
+---
+
+i📫 **Connect with me:**
+* **GitHub:** [@oscarteheran2021-tech](https://github.com/oscarteheran2021-tech)
