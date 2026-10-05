@@ -1,4 +1,4 @@
-# Hi there, I'm Ezequiel Teherán 👋
+# Hi there, I'm Oscar Teherán 👋
 
 🚀 **Systems Engineering Student** with a strong focus on **Python development** and building core skills across other programming languages.
 
