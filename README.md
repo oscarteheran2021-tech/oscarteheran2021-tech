@@ -1,13 +1,13 @@
 # Hi there, I'm Oscar Teherán 👋
 
-🚀 **Systems Engineering Student** with a strong focus on **Python development** and building core skills across other programming languages.
+ **Systems Engineering Student** with a strong focus on **Python development** and building core skills across other programming languages.
 
 ---
 
 ### 🛠️ Tech Stack & Learning Path
 
 * **Main Language:** Python (Data Structures, Algorithms, GUI & Scripting)
-* **Currently Learning:** Java, HTML5, CSS3
+* **Currently Learning:** Java, HTML, CSS
 * **Tools & Platforms:** Git, GitHub, VS Code, Figma
 * **Core Fundamentals:** Computer Networking (OSI / TCP/IP), Calculus & Optimization
 
